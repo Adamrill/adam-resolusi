@@ -1,4 +1,4 @@
 RENCANA BELAJAR ADAM
-- membuat daftsr belajar
-- mengerjakan proposal
-- belajar codeigniter
+- membuat daftar belajar
+- mengerjakan proposal bahasa indonesia
+- belajar codeigniter 4
