@@ -1,5 +1,7 @@
 RENCANA BELAJAR ADAM
 - membuat daftar belajar
-- mengerjakan proposal bahasa indonesia
+  mengatur jadwal
+- mengerjakan proposal bahasa indonesi
+- belajar codeigniter 4
 - belajar gitar
-- belajar front end
+
