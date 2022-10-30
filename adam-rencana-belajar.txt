@@ -1,4 +1,6 @@
 RENCANA BELAJAR ADAM
 - membuat daftar belajar
+  mengatur jadwal
 - mengerjakan proposal bahasa indonesia
 - belajar codeigniter 4
+- berolahraga setiap hari
