@@ -1,0 +1,4 @@
+RENCANA BELAJAR ADAM
+- membuat daftar belajar
+- mengerjakan proposal bahasa indonesia
+- belajar codeigniter 4
